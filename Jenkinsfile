@@ -5,7 +5,7 @@ pipeline {
         HOST       = '0.0.0.0'
         PORT       = '5000'
         APP_MODULE = 'app:app'     // ⚠️ à adapter : fichier:objet Flask
-        REPO_URL   = 'https://github.com/<votre-username>/Jenkins-CI-CD.git'
+        REPO_URL   = 'https://github.com/NABILAESSAIDY/Jenkins-CI-CD--.git'
     }
 
     stages {
